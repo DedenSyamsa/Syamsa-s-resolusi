@@ -1,2 +1,2 @@
-# Syamsa-s-resolusi
+# Syamsa-resolusi
 Repository untuk meyimpan rencana Syamsa kedepan
