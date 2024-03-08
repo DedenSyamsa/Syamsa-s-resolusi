@@ -1,6 +1,8 @@
 RENCANA EKSEKUSI SYAMSA
 
 - Belajar javascript
+  * ES6
+  * Framework Javascript
 - Memahami PHP
 - Belajar Interview
 - diulang-ulang
