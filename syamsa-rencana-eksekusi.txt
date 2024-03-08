@@ -3,9 +3,11 @@ RENCANA EKSEKUSI SYAMSA
 - Belajar javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
 - Memahami PHP
   ^ Laravel
 - Belajar Interview
 - diulang-ulang
+- Python
